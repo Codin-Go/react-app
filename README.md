@@ -1,3 +1,13 @@
+-------------------------------------------
+
+Description.
+This project is the basic course for learning REACT 
+
+Reference. 
+LifeCoding by egoing
+
+-------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
