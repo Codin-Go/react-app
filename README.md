@@ -8,6 +8,25 @@ LifeCoding by egoing
 
 -------------------------------------------
 
+220706 개발일지 
+
+[공유] 반응형 웹에서 사용하는 리액트에 대해 살펴보았습니다. 생활코딩의 이고잉님으로부터 배웠으며 링크는 다음과 같습니다. 
+https://youtube.com/playlist?list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7
+
+[정리] 방향, 배움, 적용, 개선
+1. 방향
+    1. 고객이 돈을 지불할만큼 가치있는 서비스 제공
+    2. Django, React, AWS
+2. 배움
+    1. REACT 기반 CRUD  - 생활코딩 React 
+3. 적용
+    1. 학습내용 코드리뷰
+4. 개선
+    1. 풀스텍 노마드코더 강좌 
+
+-------------below is about npm----------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
